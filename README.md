@@ -62,3 +62,38 @@ This project explores how the Crayon Shin-chan movie franchise has evolved over 
 
 - Dataset by [@samasiayushman](https://www.kaggle.com/datasets/samasiayushman)  
 - Reddit data retrieved using the `praw` API
+
+### 🌸 Visual Walkthrough: The Story Behind the Data
+
+Explore the Shinchan movie data through this visual narrative. Each slide highlights a different angle of the analysis.
+
+**1. Project Cover Slide**  
+<img src="walkthrough/1.png" alt="Slide 1" width="800"/>
+
+**2. Dataset and Tools Used**  
+<img src="walkthrough/2.png" alt="Slide 2" width="800"/>
+
+**3. How Has the Franchise Grown Over Time?**  
+<img src="walkthrough/3.png" alt="Slide 3" width="800"/>
+
+**4. Who Drove the Franchise Forward?**  
+<img src="walkthrough/4.png" alt="Slide 4" width="800"/>
+
+**5. Different Directors, Different Energy**  
+<img src="walkthrough/5.png" alt="Slide 5" width="800"/>
+
+**6. Which Films Do Fans Love Most?**  
+<img src="walkthrough/6.png" alt="Slide 6" width="800"/>
+
+**7. Digging Deeper – What Are Fans Saying?**  
+<img src="walkthrough/7.png" alt="Slide 7" width="800"/>
+
+**8. Summary of Insights**  
+<img src="walkthrough/8.png" alt="Slide 8" width="800"/>
+
+**9. Limitations**  
+<img src="walkthrough/9.png" alt="Slide 9" width="800"/>
+
+**10. Thank You Slide**  
+<img src="walkthrough/10.png" alt="Slide 10" width="800"/>
+
